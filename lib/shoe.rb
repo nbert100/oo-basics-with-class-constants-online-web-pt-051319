@@ -6,6 +6,7 @@ class Shoe
     @brand = brand
    
   end
+BRANDS = []
 
 def brand=(brand)
   @brand = brand
