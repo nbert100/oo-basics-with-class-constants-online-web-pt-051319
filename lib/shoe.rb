@@ -8,7 +8,8 @@ BRANDS = []
     @brand = brand
     
    BRANDS << @brand
-   BRANDS.uniq
+   
+   #BRANDS.uniq
   end
 
 
